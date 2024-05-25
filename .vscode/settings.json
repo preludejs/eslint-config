@@ -1,0 +1,6 @@
+{
+  "sonarlint.connectedMode.project": {
+    "connectionId": "prelude",
+    "projectKey": "preludejs_eslint-config"
+  }
+}
